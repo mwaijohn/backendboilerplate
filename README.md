@@ -7,3 +7,5 @@
 ```php artisan passport:install```
 
 ```php artisan migrate```
+
+configure email client
